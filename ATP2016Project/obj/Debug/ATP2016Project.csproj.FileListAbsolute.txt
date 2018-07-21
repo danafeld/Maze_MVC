@@ -1,0 +1,39 @@
+c:\users\shahar\documents\visual studio 2015\Projects\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\shahar\Documents\Visual Studio 2015\Projects\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\shahar\Documents\Visual Studio 2015\Projects\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\shahar\Documents\Visual Studio 2015\Projects\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\shahar\Documents\Visual Studio 2015\Projects\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\shahar\Documents\Visual Studio 2015\Projects\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+E:\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+E:\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+E:\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\Dana\Desktop\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\shahar\Desktop\פרוייקט תכנות\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\shahar\Desktop\פרוייקט תכנות\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\shahar\Desktop\פרוייקט תכנות\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\shahar\Desktop\פרוייקט תכנות\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\shahar\Desktop\פרוייקט תכנות\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\shahar\Desktop\פרוייקט תכנות\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\שחר לתיקון\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\שחר לתיקון\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\שחר לתיקון\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\שחר לתיקון\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\שחר לתיקון\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\Dana\Desktop\ATP2016Project\חלק ג\חלק ג\שחר לתיקון\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
